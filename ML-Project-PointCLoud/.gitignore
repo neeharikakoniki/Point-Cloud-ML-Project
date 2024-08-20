@@ -1,0 +1,7 @@
+# Ignore specific folders
+Datasets/
+modelnet10_test_dataset/
+modelnet10_train_dataset/
+modelnet10_trained_model/
+modelnet40_test_dataset/
+modelnet40_train_dataset/
